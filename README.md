@@ -13,10 +13,10 @@ Mobilelele is simple automotive online marketplace. It enables the buying and se
 | pesho    | test     |
 
 ## Screenshots
-![Home page](../../pictures/mobilele-home-page.JPG)
+![mobilele-home-page](https://github.com/manolN/mobilelele/assets/95904071/65ca0a55-01f9-4ccb-a0a0-f04b679a8322)
 
-![All offers](../../pictures/mobilele-all-offers-page.JPG)
+![mobilele-all-offers-page](https://github.com/manolN/mobilelele/assets/95904071/9f9b585f-8cbf-4dad-9b43-e3a819b98327)
 
-![Offer details](../../pictures/mobilele-offer-details-page.JPG)
+![mobilele-offer-details-page](https://github.com/manolN/mobilelele/assets/95904071/3e2d19b8-84d0-47bd-b26f-81bf80023170)
 
-![Update offer](../../pictures/mobilele-update-offer-page.JPG)
+![mobilele-update-offer-page](https://github.com/manolN/mobilelele/assets/95904071/f7700abd-5ebe-4099-8191-e726e17242f5)
